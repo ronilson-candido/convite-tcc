@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13251A"/>
+      <stop offset="1" stop-color="#050A08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 478 -390 0 406 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C853" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#00C853" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <path fill="url(#glow)" d="M0 0h800v1000H0z"/>
+  <path stroke="#39FF88" stroke-opacity=".12" d="M0 80h800M0 160h800M0 240h800M0 320h800M0 400h800M0 480h800M0 560h800M0 640h800M0 720h800M0 800h800M0 880h800M80 0v1000M160 0v1000M240 0v1000M320 0v1000M400 0v1000M480 0v1000M560 0v1000M640 0v1000M720 0v1000"/>
+  <circle cx="400" cy="346" r="108" fill="#1C3424" stroke="#39FF88" stroke-opacity=".42" stroke-width="2"/>
+  <path fill="#1C3424" stroke="#39FF88" stroke-opacity=".42" stroke-width="2" d="M183 836c0-120 97-217 217-217s217 97 217 217v20H183v-20Z"/>
+  <circle cx="400" cy="346" r="128" stroke="#39FF88" stroke-opacity=".15" stroke-dasharray="4 12" stroke-width="2"/>
+  <path stroke="#39FF88" stroke-opacity=".5" stroke-width="3" d="M84 74h40m-40 0v40m592-40h40m0 0v40M84 926v-40m0 40h40m592 0h-40m40 0v-40"/>
+  <text x="400" y="535" fill="#B9F7CC" font-family="monospace" font-size="22" letter-spacing="5" text-anchor="middle">FOTO DO AUTOR</text>
+  <text x="400" y="570" fill="#799783" font-family="monospace" font-size="13" letter-spacing="2" text-anchor="middle">SUBSTITUA ESTE ARQUIVO</text>
+</svg>
