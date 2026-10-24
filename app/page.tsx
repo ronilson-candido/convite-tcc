@@ -102,7 +102,7 @@ export default function HomePage() {
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <a
                 href="#rsvp"
-                className="inline-flex min-h-12 items-center justify-center gap-3 rounded-sm bg-[#39ff88] px-6 font-mono text-xs font-bold tracking-[0.1em] text-[#041008] transition hover:bg-[#63ffa0] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#39ff88]"
+                className="inline-flex min-h-12 items-center justify-center gap-3 rounded-sm border border-white/15 bg-white/[0.025] px-6 font-mono text-xs tracking-[0.08em] text-[#e2ebe4] transition hover:border-[#39ff88]/45 hover:text-[#39ff88] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#39ff88]"
               >
                 CONFIRMAR PRESENÇA <ArrowUpRight size={16} />
               </a>
