@@ -143,9 +143,6 @@ export default function HomePage() {
                 <span>25.11.2026</span>
               </div>
             </div>
-            <p className="mt-3 text-center font-mono text-[9px] tracking-[0.08em] text-[#64766a]">
-              SUBSTITUA <code className="text-[#91a498]">public/portrait-placeholder.svg</code> PELA SUA FOTO
-            </p>
           </div>
         </div>
         <div aria-hidden="true" className="absolute bottom-5 left-1/2 hidden -translate-x-1/2 font-mono text-[9px] tracking-[0.2em] text-[#6a7c70] lg:block">
